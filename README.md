@@ -14,8 +14,13 @@ This is a simple **Rock-Paper-Scissors** game built with Python to practice prog
 
 ## How to Run
 
-1. Make sure Python is installed on your system.
-2. Save the file as `rock_paper_scissors.py`.
+1. **Clone the repository**:
+   First, clone the project to your local machine using Git:
+   ```bash
+   git clone https://github.com/CarlosJ09/rock-paper-scissors.git
+2. Navigate to the project directory
+    ```bash
+    cd rock-paper-scissors
 3. Run the script using:
    ```bash
    python main.py
